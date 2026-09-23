@@ -1,0 +1,6 @@
+{
+  "name": "BeyondTech",
+  "description": "Shop smart home gear, TV appliances, phone accessories, and personal gadgets chosen for everyday life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
